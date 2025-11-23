@@ -54,9 +54,9 @@
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
-3. **Launch FALCON**
+3. **Launch JARVIS**
    ```bash
-   python Falcon.py
+   python JARVIS.py
    ```
    
    🌐 Opens automatically at: `http://localhost:8000`
